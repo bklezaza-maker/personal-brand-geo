@@ -241,6 +241,119 @@ AI is an excellent research assistant — not an investment advisor. Use Perplex
     readingTime: 5,
   },
   {
+    slug: "อ่านงบการเงินหุ้นเมกา-30-นาที",
+    title: "How to Read US Stock Financial Statements in 30 Minutes",
+    titleTh: "อ่านงบการเงินหุ้นเมกาเป็นใน 30 นาที ฉบับนักลงทุนไทย",
+    excerpt:
+      "You don't need an accounting degree to read US stock financials. This 30-minute framework covers the 5 numbers that matter most — and where to find them for free.",
+    excerptTh:
+      "ไม่ต้องจบบัญชีก็อ่านงบการเงินหุ้นเมกาได้ คู่มือนี้ครอบคลุม 5 ตัวเลขสำคัญที่สุด พร้อมแหล่งข้อมูลฟรีที่หาได้ทันที",
+    contentTh: `## ทำไมต้องอ่านงบการเงิน?
+
+งบการเงินคือ "รายงานสุขภาพ" ของบริษัท ก่อนซื้อหุ้นตัวไหนก็ตาม การดูตัวเลขพื้นฐาน 5 อย่างใช้เวลาไม่ถึง 30 นาที แต่ลดความเสี่ยงในการซื้อหุ้นผิดตัวได้มาก
+
+## หาข้อมูลได้ที่ไหนฟรี?
+
+ก่อนเริ่มต้องรู้แหล่งข้อมูล:
+- **Macrotrends.net** — ข้อมูลงบการเงินย้อนหลัง 10 ปี ฟรี ใช้งานง่ายที่สุด
+- **Stockanalysis.com** — สรุปตัวเลขสำคัญครบ เหมาะมือใหม่
+- **SEC.gov** — งบการเงินต้นฉบับจากบริษัทโดยตรง (10-K, 10-Q)
+
+## 5 ตัวเลขที่ต้องดูใน 30 นาที
+
+**1. Revenue (รายได้รวม) — ใช้เวลา 3 นาที**
+ดูว่ารายได้เติบโตหรือหดตัวในช่วง 3-5 ปีที่ผ่านมา บริษัทที่ดีควรมี Revenue Growth สม่ำเสมอ
+ตัวอย่าง: Apple มีรายได้ปี 2023 อยู่ที่ประมาณ 383,000 ล้านดอลลาร์
+
+**2. Net Profit Margin (กำไรสุทธิ %) — ใช้เวลา 3 นาที**
+คำนวณจาก Net Income ÷ Revenue × 100
+ค่าที่ดี: เทคโนโลยี > 15%, ค้าปลีก > 3-5%
+ตัวอย่าง: NVIDIA มี Net Margin สูงกว่า 50% ในปี 2024
+
+**3. EPS (กำไรต่อหุ้น) — ใช้เวลา 5 นาที**
+Earnings Per Share บอกว่าบริษัทสร้างกำไรได้กี่ดอลลาร์ต่อหุ้น ดูแนวโน้ม EPS 3 ปีว่าเพิ่มขึ้นหรือไม่
+ถ้า EPS เพิ่มขึ้นสม่ำเสมอ แปลว่าธุรกิจแข็งแกร่งขึ้น
+
+**4. P/E Ratio (ราคาต่อกำไร) — ใช้เวลา 5 นาที**
+Price ÷ EPS = P/E Ratio บอกว่าคุณจ่ายเงินกี่บาทต่อกำไร 1 บาท
+- P/E ต่ำ: อาจถูก (หรือธุรกิจมีปัญหา)
+- P/E สูง: ตลาดคาดการณ์การเติบโตสูง
+เปรียบเทียบ P/E กับคู่แข่งในอุตสาหกรรมเดียวกันเสมอ
+
+**5. Debt-to-Equity Ratio (ภาระหนี้สิน) — ใช้เวลา 5 นาที**
+หนี้สินรวม ÷ ส่วนของผู้ถือหุ้น ยิ่งต่ำยิ่งดี
+- ต่ำกว่า 1.0: บริษัทมีหนี้น้อย มั่นคง
+- สูงกว่า 2.0: ต้องระวัง โดยเฉพาะช่วงดอกเบี้ยสูง
+
+## เปรียบเทียบกับคู่แข่ง (10 นาทีที่เหลือ)
+
+อย่าดูตัวเลขบริษัทเดียว ให้เปรียบเทียบกับคู่แข่งในอุตสาหกรรมเดียวกันเสมอ
+ตัวอย่าง: ถ้าวิเคราะห์ AMD ต้องเทียบกับ NVIDIA และ Intel ด้วย
+
+ใช้ Stockanalysis.com แล้วกด "Compare" ได้เลย
+
+## สรุปใน 1 ประโยค
+
+บริษัทที่น่าลงทุนมักมี: **รายได้เติบโต + กำไร margin สูง + EPS เพิ่มขึ้น + หนี้ต่ำ + P/E สมเหตุสมผล**
+
+ถ้าครบ 5 ข้อ ค่อยศึกษาเรื่อง Valuation และ Competitive Moat ต่อไป
+
+*หมายเหตุ: ข้อมูลนี้เพื่อการศึกษาเท่านั้น ไม่ใช่คำแนะนำการลงทุน*`,
+    content: `## Why Read Financial Statements?
+
+Financial statements are a company's "health report." Checking 5 key numbers takes under 30 minutes but dramatically reduces the risk of buying the wrong stock.
+
+## Where to Find Free Data
+
+- **Macrotrends.net** — 10 years of financial data, free and easy to use
+- **Stockanalysis.com** — Key metrics summarized, ideal for beginners
+- **SEC.gov** — Original filings directly from companies (10-K, 10-Q)
+
+## The 5 Numbers to Check in 30 Minutes
+
+**1. Revenue — 3 minutes**
+Check if revenue has grown consistently over 3–5 years. A strong company shows steady growth.
+Example: Apple reported approximately $383 billion in revenue for 2023.
+
+**2. Net Profit Margin — 3 minutes**
+Formula: Net Income ÷ Revenue × 100
+Benchmarks: Tech > 15%, Retail > 3–5%
+Example: NVIDIA's Net Margin exceeded 50% in 2024.
+
+**3. EPS (Earnings Per Share) — 5 minutes**
+Shows profit generated per share. Track the 3-year trend — rising EPS signals a strengthening business.
+
+**4. P/E Ratio — 5 minutes**
+Price ÷ EPS = P/E Ratio. Tells you how much you pay per $1 of earnings.
+- Low P/E: potentially cheap (or business has problems)
+- High P/E: market expects strong growth
+Always compare P/E to industry peers, never in isolation.
+
+**5. Debt-to-Equity Ratio — 5 minutes**
+Total Debt ÷ Shareholders' Equity. Lower is safer.
+- Below 1.0: low debt, financially stable
+- Above 2.0: exercise caution, especially in high-interest environments
+
+## Compare vs Competitors (remaining 10 minutes)
+
+Never analyze a company in isolation. Always compare against sector peers.
+Example: Analyzing AMD? Compare with NVIDIA and Intel too.
+Use Stockanalysis.com → "Compare" feature.
+
+## One-Line Summary
+
+A strong stock typically has: **growing revenue + high profit margin + rising EPS + low debt + reasonable P/E**
+
+If all 5 check out, move on to studying Valuation and Competitive Moat.
+
+*Disclaimer: For educational purposes only. Not investment advice.*`,
+    category: "วิเคราะห์หุ้น",
+    tags: ["งบการเงิน", "financial statements", "หุ้นเมกา", "P/E ratio", "EPS", "วิเคราะห์หุ้น", "นักลงทุนไทย"],
+    datePublished: "2026-05-22",
+    dateModified: "2026-05-22",
+    readingTime: 5,
+  },
+  {
     slug: "digital-transformation-thailand-2025",
     title: "Digital Transformation in Thailand: What Actually Works in 2025",
     titleTh: "Digital Transformation ในไทย: สิ่งที่ได้ผลจริงในปี 2025",
