@@ -16,7 +16,10 @@ export function personSchema() {
       addressLocality: "Bangkok",
       addressCountry: "TH",
     },
-    sameAs: [siteConfig.linkedin, `https://twitter.com/${siteConfig.twitter.replace("@", "")}`],
+    sameAs: [
+      siteConfig.linkedin,
+      siteConfig.twitter ? `https://twitter.com/${siteConfig.twitter.replace("@", "")}` : null,
+    ].filter(Boolean),
   };
 }
 

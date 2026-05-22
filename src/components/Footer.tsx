@@ -32,11 +32,20 @@ export default function Footer() {
                   {siteConfig.email}
                 </a>
               </li>
-              <li>
-                <a href={siteConfig.linkedin} target="_blank" rel="noopener noreferrer" className="hover:text-foreground">
-                  LinkedIn
-                </a>
-              </li>
+              {siteConfig.linkedin && (
+                <li>
+                  <a href={siteConfig.linkedin} target="_blank" rel="noopener noreferrer" className="hover:text-foreground">
+                    LinkedIn
+                  </a>
+                </li>
+              )}
+              {siteConfig.twitter && (
+                <li>
+                  <a href={`https://twitter.com/${siteConfig.twitter.replace("@", "")}`} target="_blank" rel="noopener noreferrer" className="hover:text-foreground">
+                    Twitter / X
+                  </a>
+                </li>
+              )}
               <li>{siteConfig.location}</li>
             </ul>
           </div>

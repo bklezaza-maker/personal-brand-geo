@@ -62,17 +62,19 @@ export default function ContactPage() {
                 {siteConfig.email}
               </a>
             </div>
-            <div>
-              <h2 className="font-semibold mb-1">LinkedIn</h2>
-              <a
-                href={siteConfig.linkedin}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-muted-foreground hover:text-foreground transition-colors"
-              >
-                {siteConfig.linkedin.replace("https://", "")}
-              </a>
-            </div>
+            {siteConfig.linkedin && (
+              <div>
+                <h2 className="font-semibold mb-1">LinkedIn</h2>
+                <a
+                  href={siteConfig.linkedin}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-muted-foreground hover:text-foreground transition-colors"
+                >
+                  {siteConfig.linkedin.replace("https://", "")}
+                </a>
+              </div>
+            )}
             <div>
               <h2 className="font-semibold mb-1">Location</h2>
               <p className="text-muted-foreground">{siteConfig.location}</p>
