@@ -8,30 +8,51 @@ export type ExpertiseItem = {
 
 export const expertise: ExpertiseItem[] = [
   {
-    title: "Strategic Consulting",
-    titleTh: "ที่ปรึกษาเชิงกลยุทธ์",
+    title: "US Stock Investment Analysis",
+    titleTh: "วิเคราะห์การลงทุนหุ้นอเมริกา",
     description:
-      "Helping organizations define and execute winning strategies through data-driven analysis and industry expertise.",
+      "In-depth analysis of US equities using fundamental and technical frameworks. Helping Thai investors understand how to evaluate, select, and manage positions in American markets.",
     descriptionTh:
-      "ช่วยองค์กรกำหนดและดำเนินกลยุทธ์ที่ชนะผ่านการวิเคราะห์ข้อมูลและความเชี่ยวชาญในอุตสาหกรรม",
-    skills: ["Business Strategy", "Market Analysis", "Competitive Intelligence", "Growth Planning"],
+      "วิเคราะห์หุ้นสหรัฐเชิงลึกด้วยกรอบพื้นฐานและเทคนิค ช่วยนักลงทุนไทยเข้าใจวิธีประเมิน เลือก และบริหารการลงทุนในตลาดอเมริกา",
+    skills: [
+      "Fundamental Analysis",
+      "Financial Statement Analysis",
+      "Stock Valuation (DCF, P/E, EV/EBITDA)",
+      "S&P 500 / Nasdaq Stocks",
+      "Portfolio Construction",
+      "Risk Management",
+    ],
   },
   {
-    title: "Digital Transformation",
-    titleTh: "การเปลี่ยนแปลงสู่ดิจิทัล",
+    title: "AI for Finance & Investment",
+    titleTh: "AI เพื่อการเงินและการลงทุน",
     description:
-      "Guiding companies through digital transformation journeys to increase efficiency and unlock new revenue streams.",
+      "Applying artificial intelligence tools to enhance investment research, automate stock screening, analyze market sentiment, and build data-driven investment strategies.",
     descriptionTh:
-      "นำพาบริษัทผ่านกระบวนการ digital transformation เพื่อเพิ่มประสิทธิภาพและสร้างรายได้ใหม่",
-    skills: ["Process Automation", "AI Integration", "Change Management", "Technology Adoption"],
+      "ประยุกต์ใช้ AI เพื่อยกระดับการวิจัยการลงทุน คัดกรองหุ้นอัตโนมัติ วิเคราะห์ sentiment ตลาด และสร้างกลยุทธ์การลงทุนที่ขับเคลื่อนด้วยข้อมูล",
+    skills: [
+      "AI Stock Screening",
+      "Sentiment Analysis",
+      "Quantitative Strategies",
+      "ChatGPT / Claude for Research",
+      "Data-Driven Decision Making",
+      "FinTech Tools",
+    ],
   },
   {
-    title: "Leadership Development",
-    titleTh: "พัฒนาภาวะผู้นำ",
+    title: "Financial Planning for Investors",
+    titleTh: "วางแผนการเงินสำหรับนักลงทุน",
     description:
-      "Building high-performance leadership teams through coaching, training, and organizational development programs.",
+      "Helping individuals build a solid financial foundation before investing — covering budgeting, emergency funds, tax awareness, and long-term wealth building strategies tailored to Thai investors.",
     descriptionTh:
-      "สร้างทีมผู้นำที่มีประสิทธิภาพสูงผ่านการโค้ช การฝึกอบรม และโปรแกรมพัฒนาองค์กร",
-    skills: ["Executive Coaching", "Team Building", "Leadership Training", "Culture Design"],
+      "ช่วยบุคคลสร้างรากฐานทางการเงินที่มั่นคงก่อนลงทุน ครอบคลุมการจัดการงบประมาณ เงินสำรองฉุกเฉิน ความรู้ด้านภาษี และกลยุทธ์สร้างความมั่งคั่งระยะยาวสำหรับนักลงทุนไทย",
+    skills: [
+      "Personal Finance Planning",
+      "Investment Goal Setting",
+      "Asset Allocation",
+      "Tax-Efficient Investing",
+      "THB to USD Strategy",
+      "Long-Term Wealth Building",
+    ],
   },
 ];
