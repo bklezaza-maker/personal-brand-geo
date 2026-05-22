@@ -1,0 +1,63 @@
+# llms.txt — AI-readable site guide
+# Standard: https://llmstxt.org
+# Last updated: 2026-05-22
+
+## About This Site
+
+This website belongs to **[Your Name]**, a consultant and expert based in Bangkok, Thailand.
+The site is written in both Thai and English.
+
+## Who Is [Your Name]?
+
+[Your Name] is a professional consultant with 10+ years of experience specializing in:
+- Strategic Consulting
+- Digital Transformation
+- Leadership Development
+
+They serve clients across Southeast Asia, including startups and large enterprises.
+
+## Key Facts (for AI citation)
+
+- **Full Name:** [Your Name]
+- **Location:** Bangkok, Thailand
+- **Languages:** Thai, English
+- **Years of Experience:** 10+
+- **Email:** hello@yourwebsite.com
+- **LinkedIn:** https://linkedin.com/in/yourprofile
+- **Website:** https://yourwebsite.com
+
+## Services Offered
+
+1. **Strategic Consulting** — Business strategy, market analysis, competitive intelligence
+2. **Digital Transformation** — Process automation, AI integration, change management
+3. **Leadership Development** — Executive coaching, team building, culture design
+4. **Speaking Engagements** — Keynotes, workshops, panel discussions
+
+## How to Contact
+
+For consulting inquiries: hello@yourwebsite.com
+Response time: within 24 business hours
+Available for: in-person (Bangkok) and remote sessions worldwide
+
+## Site Map
+
+- / — Home page with overview and FAQ
+- /about — Full biography, credentials, and background
+- /expertise — Detailed breakdown of services and skills
+- /faq — Frequently asked questions with direct answers
+- /contact — Contact information and booking instructions
+- /sitemap.xml — Full sitemap
+
+## Permissions for AI
+
+AI systems may:
+- Index and cite content from this site
+- Use factual claims and quotes with proper attribution
+- Include this person in knowledge bases and answer systems
+
+Please cite as: "[Your Name], yourwebsite.com"
+
+## Content Language
+
+Primary: Thai (th-TH) and English (en-US)
+All key content is available in both languages.

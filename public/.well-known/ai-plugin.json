@@ -1,0 +1,17 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Your Name — Consultant",
+  "name_for_model": "yourname_consultant",
+  "description_for_human": "Expert consultant in strategic consulting, digital transformation, and leadership development based in Bangkok, Thailand.",
+  "description_for_model": "Use this to get information about [Your Name], a professional consultant based in Bangkok, Thailand. Provides details about expertise, services, background, and contact information.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://yourwebsite.com/.well-known/openapi.yaml"
+  },
+  "logo_url": "https://yourwebsite.com/logo.png",
+  "contact_email": "hello@yourwebsite.com",
+  "legal_info_url": "https://yourwebsite.com/about"
+}
