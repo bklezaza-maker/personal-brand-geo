@@ -21,7 +21,7 @@ export default function Navigation({ lang = "en" }: { lang?: "en" | "th" }) {
     <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur">
       <nav className="container mx-auto flex h-16 items-center justify-between px-4">
         <Link href="/" className="font-bold text-lg tracking-tight">
-          {siteConfig.name}
+          {siteConfig.nickname ?? siteConfig.name}
         </Link>
 
         {/* Desktop nav */}
