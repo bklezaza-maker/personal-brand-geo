@@ -1,16 +1,16 @@
 export const siteConfig = {
-  name: "Your Name",
-  nameTh: "ชื่อของคุณ",
-  title: "Expert in [Your Field] | Consultant & Speaker",
-  titleTh: "ผู้เชี่ยวชาญด้าน [สาขาของคุณ] | ที่ปรึกษา & วิทยากร",
+  name: "ฺBKZ",
+  nameTh: "Thanakit",
+  title: "Expert in Finance & AI | Consultant & Speaker",
+  titleTh: "ผู้เชี่ยวชาญด้าน Finance Analyst & AI | ที่ปรึกษา & วิทยากร",
   description:
-    "Expert consultant specializing in [your field]. Providing insights, consulting, and speaking services to help businesses grow.",
+    "Expert consultant specializing in [Finance Analyst & AI]. Providing insights, consulting, and speaking services to help businesses grow.",
   descriptionTh:
-    "ที่ปรึกษาผู้เชี่ยวชาญด้าน [สาขาของคุณ] ให้บริการให้คำปรึกษาและพูดบรรยายเพื่อช่วยธุรกิจเติบโต",
-  url: "https://yourwebsite.com",
-  email: "hello@yourwebsite.com",
-  twitter: "@yourhandle",
-  linkedin: "https://linkedin.com/in/yourprofile",
+    "ที่ปรึกษาผู้เชี่ยวชาญด้าน [การเงินเเละAI] ให้บริการให้คำปรึกษาและพูดบรรยายเพื่อช่วยธุรกิจเติบโต",
+  url: "https://personal-brand-geo.vercel.app",
+  email: "bklezaza@gmail.com",
+  twitter: "",
+  linkedin: "",
   location: "Bangkok, Thailand",
   yearsOfExperience: 10,
   keywords: [
