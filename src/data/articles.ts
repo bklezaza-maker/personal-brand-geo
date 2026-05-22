@@ -132,6 +132,115 @@ US stocks give Thai investors access to the world's best companies with relative
     readingTime: 5,
   },
   {
+    slug: "ใช้-ai-วิเคราะห์หุ้นเมกา",
+    title: "Can AI Really Analyze US Stocks? A Practical Test for Thai Investors",
+    titleTh: "ใช้ AI วิเคราะห์หุ้นเมกาได้จริงไหม? ทดสอบจริงสำหรับนักลงทุนไทย",
+    excerpt:
+      "ChatGPT, Claude, and Perplexity can all help analyze US stocks — but each has different strengths and blind spots. Here is what actually works and what to avoid.",
+    excerptTh:
+      "ChatGPT, Claude และ Perplexity ช่วยวิเคราะห์หุ้นอเมริกาได้จริง แต่แต่ละตัวมีจุดแข็งและข้อจำกัดต่างกัน นี่คือสิ่งที่ได้ผลจริงและสิ่งที่ควรระวัง",
+    contentTh: `## AI วิเคราะห์หุ้นได้จริงไหม?
+
+คำตอบสั้นๆ คือ **ได้ — แต่ต้องรู้วิธีใช้** AI ไม่สามารถทำนายราคาหุ้นได้ แต่ช่วยประหยัดเวลาวิจัยได้มหาศาล ถ้าใช้ถูกวิธี
+
+## AI แต่ละตัวเหมาะกับงานไหน?
+
+**ChatGPT (GPT-4o)**
+เหมาะสำหรับ: อธิบายงบการเงิน สรุป earnings report และตอบคำถามทั่วไปเกี่ยวกับธุรกิจ
+ข้อจำกัด: ข้อมูลราคาหุ้น real-time ไม่แม่นยำ อย่าถามราคาปัจจุบัน
+
+**Claude (Anthropic)**
+เหมาะสำหรับ: วิเคราะห์เอกสารยาว เช่น 10-K Annual Report หรือ Earnings Call Transcript อ่านได้ทีละหลายหน้า
+ข้อจำกัด: ไม่มีข้อมูล real-time เช่นกัน
+
+**Perplexity AI**
+เหมาะสำหรับ: ค้นหาข่าวล่าสุด อ่านข้อมูลจากหลายแหล่งพร้อมกัน มีการอ้างอิง source ชัดเจน
+ข้อจำกัด: วิเคราะห์เชิงลึกได้น้อยกว่า ChatGPT และ Claude
+
+## วิธีใช้ AI วิเคราะห์หุ้นจริงๆ (Step-by-Step)
+
+**ขั้นตอนที่ 1 — หาข้อมูลพื้นฐานบริษัท**
+พิมพ์ใน Perplexity: *"NVIDIA Q1 2025 earnings results and analyst outlook"*
+ได้ข้อมูลล่าสุดพร้อม source ภายใน 10 วินาที แทนที่จะต้องอ่านข่าว 30 นาที
+
+**ขั้นตอนที่ 2 — วิเคราะห์งบการเงิน**
+Copy ตัวเลขจาก Macrotrends.net หรือ Wisesheets แล้ว paste ให้ Claude หรือ ChatGPT:
+*"วิเคราะห์ Revenue Growth, Net Margin และ P/E Ratio ของ NVDA เทียบกับ AMD ให้หน่อย"*
+
+**ขั้นตอนที่ 3 — ประเมิน Valuation**
+ถาม ChatGPT: *"ถ้า NVIDIA มี EPS คาดการณ์ที่ $3.50 และ Forward P/E ที่ 35x ราคาเป้าหมายควรอยู่ที่เท่าไหร่?"*
+AI จะช่วยคำนวณและอธิบายสมมติฐาน แต่คุณต้องตรวจสอบตัวเลขเองเสมอ
+
+**ขั้นตอนที่ 4 — ตรวจสอบ Sentiment**
+ถาม Perplexity: *"What are analysts saying about Apple stock in May 2026?"*
+ดู consensus ของ Wall Street ว่า Buy / Hold / Sell
+
+## สิ่งที่ AI ทำได้ดี vs ทำไม่ได้
+
+| ทำได้ดี | ทำไม่ได้ |
+|---------|---------|
+| สรุป earnings report | ทำนายราคาพรุ่งนี้ |
+| อธิบายงบการเงิน | รู้ราคาหุ้น real-time |
+| เปรียบเทียบหุ้น 2 ตัว | รับผิดชอบผลการลงทุน |
+| แปล SEC filing เป็นภาษาง่าย | วิเคราะห์ insider trading |
+| ช่วยสร้าง watchlist | การันตีผลตอบแทน |
+
+## สรุป
+
+AI เป็นผู้ช่วยวิจัยที่ดีมาก ไม่ใช่ที่ปรึกษาการลงทุน ใช้ Perplexity หาข่าว ใช้ Claude หรือ ChatGPT วิเคราะห์งบการเงิน แต่การตัดสินใจซื้อ-ขายยังต้องอาศัยความเข้าใจของคุณเอง ไม่มี AI ตัวไหนรับผิดชอบแทนได้
+
+*หมายเหตุ: ข้อมูลนี้เพื่อการศึกษาเท่านั้น ไม่ใช่คำแนะนำการลงทุน*`,
+    content: `## Can AI Really Analyze Stocks?
+
+The short answer: **yes — but you need to know how to use it.** AI cannot predict stock prices, but it can dramatically cut research time when used correctly.
+
+## Which AI Tool for Which Task?
+
+**ChatGPT (GPT-4o)** — Best for explaining financial statements, summarizing earnings reports, and answering general business questions. Avoid asking for real-time prices.
+
+**Claude (Anthropic)** — Best for analyzing long documents like 10-K Annual Reports or Earnings Call Transcripts. Can process dozens of pages at once.
+
+**Perplexity AI** — Best for finding the latest news with source citations. Pulls from multiple sources simultaneously with clear references.
+
+## Step-by-Step: How to Use AI for Stock Research
+
+**Step 1 — Get company fundamentals fast**
+Type in Perplexity: *"NVIDIA Q1 2025 earnings results and analyst outlook"*
+Get sourced, current information in 10 seconds instead of 30 minutes of reading.
+
+**Step 2 — Analyze financial statements**
+Copy numbers from Macrotrends.net, paste into Claude or ChatGPT:
+*"Analyze NVDA's Revenue Growth, Net Margin, and P/E Ratio vs AMD"*
+
+**Step 3 — Estimate valuation**
+Ask ChatGPT: *"If NVIDIA has a forward EPS of $3.50 and trades at 35x forward P/E, what is the implied price target?"*
+AI calculates and explains assumptions — always verify the numbers yourself.
+
+**Step 4 — Check analyst sentiment**
+Ask Perplexity: *"What are analysts saying about Apple stock in May 2026?"*
+See Wall Street consensus: Buy / Hold / Sell.
+
+## What AI Can and Cannot Do
+
+| Can Do | Cannot Do |
+|--------|-----------|
+| Summarize earnings reports | Predict tomorrow's price |
+| Explain financial statements | Access real-time prices |
+| Compare two stocks | Guarantee returns |
+| Translate SEC filings simply | Analyze insider trading |
+
+## Summary
+
+AI is an excellent research assistant — not an investment advisor. Use Perplexity for news, Claude or ChatGPT for financial analysis. The final buy or sell decision always requires your own judgment. No AI can take responsibility for your portfolio.
+
+*Disclaimer: For educational purposes only. Not investment advice.*`,
+    category: "AI & การลงทุน",
+    tags: ["AI", "หุ้นเมกา", "ChatGPT", "Claude", "Perplexity", "วิเคราะห์หุ้น", "นักลงทุนไทย"],
+    datePublished: "2026-05-22",
+    dateModified: "2026-05-22",
+    readingTime: 5,
+  },
+  {
     slug: "digital-transformation-thailand-2025",
     title: "Digital Transformation in Thailand: What Actually Works in 2025",
     titleTh: "Digital Transformation ในไทย: สิ่งที่ได้ผลจริงในปี 2025",
