@@ -15,6 +15,123 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    slug: "หุ้นเมกาสำหรับมือใหม่",
+    title: "US Stocks for Beginners: Everything Thai Investors Need to Know",
+    titleTh: "หุ้นเมกาสำหรับมือใหม่: ทุกอย่างที่นักลงทุนไทยต้องรู้",
+    excerpt:
+      "Want to invest in US stocks but don't know where to start? This guide covers everything from opening an account to picking your first stock — written specifically for Thai investors.",
+    excerptTh:
+      "อยากลงทุนหุ้นอเมริกาแต่ไม่รู้จะเริ่มยังไง? คู่มือนี้ครอบคลุมทุกอย่างตั้งแต่เปิดบัญชีไปจนถึงการเลือกหุ้นตัวแรก เขียนสำหรับนักลงทุนไทยโดยเฉพาะ",
+    contentTh: `## หุ้นเมกาคืออะไร และทำไมนักลงทุนไทยถึงสนใจ?
+
+หุ้นเมกา คือหุ้นที่ซื้อขายในตลาดหลักทรัพย์สหรัฐอเมริกา ไม่ว่าจะเป็น NYSE หรือ Nasdaq ซึ่งเป็นที่อยู่ของบริษัทชื่อดังอย่าง Apple, NVIDIA, Microsoft, Amazon และ Tesla
+
+นักลงทุนไทยสนใจหุ้นเมกาเพราะ 3 เหตุผลหลัก:
+- **ขนาดตลาด:** ตลาดหุ้นสหรัฐมีมูลค่ารวมกว่า 40 ล้านล้านดอลลาร์ ใหญ่ที่สุดในโลก
+- **บริษัทโลก:** เข้าถึงบริษัทเทคโนโลยีที่เปลี่ยนโลก ซึ่งไม่มีในตลาดไทย
+- **ผลตอบแทนในอดีต:** S&P 500 ดัชนีหลักของสหรัฐ ให้ผลตอบแทนเฉลี่ยประมาณ 10% ต่อปีในระยะยาว
+
+## เปิดบัญชีซื้อหุ้นเมกาได้ที่ไหน?
+
+สำหรับนักลงทุนไทย มีตัวเลือกหลักอยู่ 2 กลุ่ม:
+
+**กลุ่มที่ 1 — โบรกเกอร์ไทย (สะดวก เหมาะมือใหม่)**
+- **Invest by KASIKORN (KPLUS)** — เปิดบัญชีผ่านแอปได้เลย ไม่ต้องมีเอกสารเพิ่ม
+- **SCB Easy Invest** — รองรับหุ้นสหรัฐ เหมาะคนที่มีบัญชี SCB อยู่แล้ว
+- **Jitta Wealth** — เน้น ETF และพอร์ตอัตโนมัติ เหมาะคนที่ไม่อยากเลือกหุ้นเอง
+
+**กลุ่มที่ 2 — โบรกเกอร์ต่างประเทศ (ค่าธรรมเนียมถูกกว่า เหมาะมือเก่า)**
+- **Interactive Brokers** — ค่าธรรมเนียมต่ำมาก เหมาะคนลงทุนจริงจัง
+- **Webull** — มีแอปใช้งานง่าย เหมาะคนชอบดู chart
+
+## เริ่มด้วยเงินเท่าไหร่ดี?
+
+ไม่มีขั้นต่ำตายตัว แต่แนะนำดังนี้:
+- **มือใหม่จริงๆ:** เริ่ม 5,000–10,000 บาท เพื่อเรียนรู้ระบบก่อน
+- **อยากกระจายพอร์ตจริงจัง:** ควรมีอย่างน้อย 15,000–30,000 บาท เพื่อซื้อได้หลายตัว
+- **เน้น ETF ดัชนี:** ไม่มีขั้นต่ำ เพราะหลายโบรกเกอร์รองรับ Fractional Shares
+
+## ควรเริ่มซื้ออะไรก่อน?
+
+สำหรับมือใหม่ แนะนำเริ่มด้วย **ETF ดัชนี** ก่อนเลือกหุ้นรายตัว:
+
+- **VOO / SPY** — ETF ที่ติดตาม S&P 500 กระจายความเสี่ยงใน 500 บริษัทชั้นนำ
+- **QQQ** — ETF ที่ติดตาม Nasdaq 100 เน้นหุ้นเทคโนโลยี
+
+เมื่อเข้าใจตลาดพอแล้ว ค่อยขยับมาเลือกหุ้นรายตัวอย่าง Apple (AAPL), NVIDIA (NVDA) หรือ Microsoft (MSFT)
+
+## สิ่งที่ต้องรู้ก่อนลงทุน
+
+**1. ความเสี่ยงค่าเงิน (Currency Risk)**
+เงินบาทและดอลลาร์ขึ้นลงไม่พร้อมกัน ถ้าค่าบาทแข็งขึ้น กำไรจากหุ้นอาจหายไปบางส่วนเมื่อแปลงกลับ
+
+**2. เวลาซื้อขาย**
+ตลาดหุ้นสหรัฐเปิด 21:30–04:00 น. (ตามเวลาไทย) ช่วง Summer และ 22:30–05:00 น. ช่วง Winter
+
+**3. ภาษีเงินปันผล**
+เงินปันผลจากหุ้นสหรัฐถูกหักภาษี ณ ที่จ่าย 30% สำหรับนักลงทุนต่างชาติ ควรคำนึงถึงเมื่อเลือกหุ้น
+
+## สรุป
+
+หุ้นเมกาเปิดโอกาสให้นักลงทุนไทยเข้าถึงบริษัทที่ดีที่สุดในโลก เริ่มต้นได้ด้วยเงินไม่มาก ผ่านโบรกเกอร์ไทยที่ใช้งานง่าย แนะนำให้เริ่มจาก ETF ดัชนีอย่าง VOO หรือ SPY ก่อน แล้วค่อยเรียนรู้การเลือกหุ้นรายตัวเมื่อมีความเข้าใจมากขึ้น
+
+*หมายเหตุ: ข้อมูลนี้เพื่อการศึกษาเท่านั้น ไม่ใช่คำแนะนำการลงทุน กรุณาศึกษาข้อมูลเพิ่มเติมและรับความเสี่ยงที่ยอมรับได้ก่อนลงทุนทุกครั้ง*`,
+    content: `## What Are US Stocks and Why Do Thai Investors Care?
+
+US stocks are shares traded on American exchanges — NYSE and Nasdaq — home to global giants like Apple, NVIDIA, Microsoft, Amazon, and Tesla.
+
+Thai investors are drawn to US stocks for three main reasons:
+- **Market size:** The US stock market is worth over $40 trillion — the largest in the world
+- **Global companies:** Access to tech companies reshaping the world, unavailable on Thai exchanges
+- **Historical returns:** The S&P 500 has delivered approximately 10% average annual returns over the long term
+
+## Where to Open a US Stock Brokerage Account
+
+Thai investors have two main groups of options:
+
+**Group 1 — Thai Brokers (convenient, great for beginners)**
+- **Invest by KASIKORN (KPLUS)** — Open via app instantly
+- **SCB Easy Invest** — Supports US stocks, ideal for SCB account holders
+- **Jitta Wealth** — Focuses on ETFs and automated portfolios
+
+**Group 2 — International Brokers (lower fees, for experienced investors)**
+- **Interactive Brokers** — Very low commission, ideal for serious investors
+- **Webull** — Easy-to-use app, good for chart analysis
+
+## How Much Do You Need to Start?
+
+- **Complete beginners:** 5,000–10,000 THB to learn the system
+- **Serious diversification:** At least 15,000–30,000 THB for multiple positions
+- **Index ETF only:** No real minimum — most brokers support fractional shares
+
+## What Should You Buy First?
+
+For beginners, start with **index ETFs** before picking individual stocks:
+- **VOO / SPY** — Track the S&P 500, diversified across 500 leading companies
+- **QQQ** — Tracks Nasdaq 100, tech-focused
+
+Once comfortable, move to individual stocks like Apple (AAPL), NVIDIA (NVDA), or Microsoft (MSFT).
+
+## Key Risks to Understand
+
+**Currency Risk:** THB/USD fluctuations can affect returns when converting back to baht.
+
+**Trading Hours:** US market opens 9:30 PM–4:00 AM Bangkok time (summer) — plan accordingly.
+
+**Dividend Tax:** US dividends are subject to 30% withholding tax for foreign investors.
+
+## Summary
+
+US stocks give Thai investors access to the world's best companies with relatively low barriers to entry. Start with index ETFs like VOO or SPY, use a Thai broker for simplicity, and build your knowledge before selecting individual stocks.
+
+*Disclaimer: This content is for educational purposes only and does not constitute investment advice.*`,
+    category: "หุ้นเมกา",
+    tags: ["หุ้นเมกา", "US stocks", "มือใหม่", "การลงทุน", "S&P 500", "ETF", "นักลงทุนไทย"],
+    datePublished: "2026-05-22",
+    dateModified: "2026-05-22",
+    readingTime: 5,
+  },
+  {
     slug: "digital-transformation-thailand-2025",
     title: "Digital Transformation in Thailand: What Actually Works in 2025",
     titleTh: "Digital Transformation ในไทย: สิ่งที่ได้ผลจริงในปี 2025",
