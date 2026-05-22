@@ -1,6 +1,6 @@
 export const siteConfig = {
-  name: "ฺBKZ",
-  nameTh: "Thanakit",
+  name: "BKZ — Thanakit",
+  nameTh: "ธนกฤต ศิริตันติเวชกร",
   title: "Expert in Finance & AI | Consultant & Speaker",
   titleTh: "ผู้เชี่ยวชาญด้าน Finance Analyst & AI | ที่ปรึกษา & วิทยากร",
   description:
